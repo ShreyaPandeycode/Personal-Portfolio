@@ -511,7 +511,7 @@ header .navbar ul li a:hover {
     width: 100%;
   }
 }
-
+/* created a hover effect */
 .skill-box:hover{
   background-color:rgb(169, 127, 127);
   color:black;
